@@ -27,4 +27,4 @@ This repository is dedicated to my **Rust learning journey** — starting from t
 ---<br>
 
 <br>💡 This repository will grow as I improve my Rust skills step by step.  
-Stay tuned for updates! 🔥
+Stay tuned for updates! 🔥.
